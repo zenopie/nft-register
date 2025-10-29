@@ -3,10 +3,6 @@ target/
 **/*.rs.bk
 *.pdb
 
-# Compiled binaries
-*.wasm
-*.wasm.gz
-
 # Node
 node/
 node_modules/
